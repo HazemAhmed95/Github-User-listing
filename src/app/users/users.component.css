@@ -1,0 +1,20 @@
+.btn-dark {
+    color: #ffffff;
+    background-color: #333;
+    border-color: #555;
+}
+
+.btn-dark:hover,
+.btn-dark:focus,
+.btn-dark:active,
+.btn-dark.active,
+.open .dropdown-toggle.btn-dark {
+    color: #ffffff;
+    background-color: #080808;
+    border-color: #444;
+}
+
+.left{
+    border-right: 1px solid #000;
+
+}
